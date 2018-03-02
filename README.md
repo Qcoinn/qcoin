@@ -1,0 +1,2 @@
+# qcoin
+qcoin-master
